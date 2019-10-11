@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\THOMS3\Documents\C++\lab 4 weather report\main.cpp(124,14): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\THOMS3\Documents\C++\lab 4 weather report\main.cpp(147,17): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  lab 4 weather report.vcxproj -> C:\Users\THOMS3\Documents\C++\lab 4 weather report\Debug\lab 4 weather report.exe
